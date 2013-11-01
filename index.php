@@ -1,5 +1,6 @@
 <?php
 
+/*
 include("_start.php");
 
 if(isset($_GET['404']))
@@ -20,5 +21,11 @@ if(isset($_GET['404']))
 		include("_load.php");
 	}
 }
-
+*/
 ?>
+
+<html>
+<body>
+<img src="PoC-PALM.jpg">
+</body>
+</html>
